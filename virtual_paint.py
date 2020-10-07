@@ -3,7 +3,7 @@ import cv2
 
 video_input = cv2.VideoCapture(0)
 
-myColors = [[40,80,131,101,255,255],
+myColors = [[40,80,131,101,255,255],            # neon pink and neon yellow
             [128,88,178,179,228,255]]
 
 myColorValues = [[0,128,0],
